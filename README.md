@@ -1,1 +1,3 @@
 # pcrepo
+type 
+colour
